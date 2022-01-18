@@ -1,4 +1,4 @@
-# Tekton 101 Workshop - Main-commit-push
+# Tekton 101 Workshop - Main
 
 This is the source repository for a workshop about Tekton on OpenShift. To view it online, go to:
 

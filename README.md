@@ -1,4 +1,4 @@
-# Tekton 101 Workshop - Main-4
+# Tekton 101 Workshop - Main-5
 
 This is the source repository for a workshop about Tekton on OpenShift. To view it online, go to:
 
